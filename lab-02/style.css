@@ -1,0 +1,14 @@
+nav {
+    display: flex;
+    background-color: black;
+}
+nav a {
+    background-color: white;
+    color: red;
+    padding: 0.25em 0.5em;
+    margin: 100%;
+    transition: background-color 0.7s;
+  }
+  nav a:hover {
+    background-color: blue;
+  }

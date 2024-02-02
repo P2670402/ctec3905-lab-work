@@ -1,0 +1,10 @@
+body {
+    background: yellow;
+}
+p {
+    background-color: white;
+}
+.my-class {
+    background-color: red;
+    color: yellow;
+}
